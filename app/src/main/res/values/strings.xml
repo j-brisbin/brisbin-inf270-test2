@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Brisbin Test 2</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="problemActivites">
+        <item>Problem 2 Activity</item>
+        <item>Problem 3 Activity</item>
+        <item>Problem 4 Activity</item>
+        <item>Problem 5 Activity</item>
+    </string-array>
+
+    <string-array name="daysOfTheWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string name="title_activity_problem2">Problem 2 Activity</string>
+    <string name="title_activity_problem3">Problem 3 Activity</string>
+    <string name="title_activity_problem4">Problem 4 Activity</string>
+    <string name="title_activity_problem5">Problem 5 Activity</string>
+    <string name="description_problem2">Type in your text to add
+        it to your device\'s internal storage.</string>
+    <string name="description_problem3">This screen will display any device files created
+        in Problem 2.</string>
+    <string name="description_problem4">Type in your text to add
+        it to your device\'s database.</string>
+    <string name="description_problem5">Pick a day to find the entries
+        sent to your device\'s database on that day.</string>
+</resources>
